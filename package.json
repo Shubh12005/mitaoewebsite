@@ -1,0 +1,22 @@
+{
+  "name": "mitaoe-admission-cell",
+  "version": "1.0.0",
+  "description": "Modern Admission Cell portal for MIT Academy of Engineering, Alandi, Pune",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "mitaoe",
+    "admission",
+    "engineering",
+    "pune",
+    "portal"
+  ],
+  "author": "MITAOE Admission Cell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
